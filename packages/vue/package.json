@@ -1,0 +1,26 @@
+{
+  "name": "@huzhixin-private/vue",
+  "version": "0.0.0",
+  "description": "测试包",
+  "author": "'' <1844985716@qq.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/vue.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "chalk": "^5.0.1"
+  }
+}
